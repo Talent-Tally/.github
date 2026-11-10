@@ -8,7 +8,7 @@
   Services globaux
 
   [![Website](https://img.shields.io/badge/Website-talent--tally.com-blue?style=flat)](https://www.talent-tally.com)
-  [![Contact](https://img.shields.io/badge/Email-contact@talent--tally.com-red?style=flat)](mailto:audrey-jordan.souop@talent-tally.com)
+  [![Contact](https://img.shields.io/badge/Email-audrey-jordan.souop@talent--tally.com-red?style=flat)](mailto:audrey-jordan.souop@talent-tally.com)
 </div>
 
 ---
